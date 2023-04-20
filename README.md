@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/vvn72fm0i83mn1fy/branch/master?svg=true)](https://ci.appveyor.com/project/AllaDudina/dz2-3-patternes-2-authtest/branch/master)
